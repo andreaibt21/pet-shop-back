@@ -1,0 +1,83 @@
+[
+  {
+    "name":"Blue Buffalo Life Protection Formula Natural Adult Dry Dog Food",
+    "des":"REAL MEAT FIRST: Blue Buffalo foods always feature real meat as the first ingredient; High-quality protein from real chicken helps your dog build and maintain healthy muscles; Plus they contain wholesome whole grains, garden veggies and fruit",
+    "stock":5,
+    "price":34,
+    "img":"https://m.media-amazon.com/images/I/71gUaaYXmjL._AC_SL1500_.jpg"
+   
+  },
+  {
+
+    "name": "Minichunks Adult Dry Dog Food, Chicken",
+    "des": "Adult Dry Dog Food: Give your dog the nutrition they need in the small kibble size they prefer, with real, farm-raised chicken as the first ingredient to promote strong muscles with premium-sourced protein.",
+    "stock": 15,
+    "price": 15,
+    "img": "https://m.media-amazon.com/images/I/71SfdDy5xeL._AC_SL1500_.jpg"
+
+  },
+  {
+    "name": "ASPEN PET Fashion Dog Kennel, size 24",
+    "des": "This dog kennel for medium dogs has an easy-open latch for opening the dog travel carrier with one hand lid includes built in storage for additional pet identification. This pet carrier meets most airline cargo specifications | The Air Travel kennel for dogs and cats also has ventilation on 3 sides",
+    "stock": 10,
+    "price": 50,
+    "img": "https://m.media-amazon.com/images/I/71o8ElncFEL._AC_SL1500_.jpg"
+  },
+  {
+    "name": "BANGTOP Dog Bed Medium size",
+    "des": "MATERIAL & IMPROVED SLEEP Cozy dog bed is made of soft fabric, non-toxic and environmental friendly material. Stuffed with eco-friendly PP cotton keep the dog bed warm and fluffy, provide a comfortable, healthy sleeping environment, also can maintain its original shape for a long time. ",
+    "stock": 17,
+    "price": 36,
+    "img": "https://m.media-amazon.com/images/I/71J3uz2s4PL._AC_SL1500_.jpg"
+  },
+  {
+    "name": "Donut Pet Bed in Lux Fur",
+    "des": "Thanks to its round shape, our high-quality Donut Cuddler cat and dog bed is ideal for pets who love to curl up. The raised rim creates a sense of security and provides head and neck support, while the super soft filling offers joint and muscle pain relief.",
+    "stock": 4,
+    "price": 33,
+    "img": "https://m.media-amazon.com/images/I/81LBsVJrx+L._AC_SL1500_.jpg"
+  },
+  {
+    "name": "Paws & Pals Glucosamine for Dogs, 120 Soft Chews of Advanced Hip and Joint Supplements",
+    "des": "Extra strength formula preserves the structural integrity of joints and connective tissues to help relieve aches & discomfort. Joint health supplements for dogs are soft and chewy.",
+    "stock": 10,
+    "price": 20,
+    "img": "https://m.media-amazon.com/images/I/61wDEu76UiL._AC_SL1280_.jpg"
+  },
+  {
+    "name": "Dog Toothbrush and Toothpaste Brushing Kit",
+    "des": "NON-STOP PROTECTION: Fights bad breath, tooth decay, tartar build-up, gum disease, and plaque. CLEANS & REFRESHENS: Improve oral hygiene and restore the luster of your pet's teeth with this powerful cleaning solution. Watch them smile because your pet will be showing off those pearly whites in no time.",
+    "stock": 5,
+    "price": 10,
+    "img": "https://m.media-amazon.com/images/I/71IyMBR1y6L._AC_SL1500_.jpg"
+  },
+  {
+    "name": "TropiClean Enticers Teeth Cleaning Gel for Dogs",
+    "des": "Delectable Dental Care - A dose a day of beefy gel will satisfy your dog's natural cravings and leave their teeth sparkling clean. Clean teeth guaranteed. Flavors Dogs Love - Smoked Beef Brisket Flavor is 3x more appetizing to dogs than competing oral care gels. ",
+    "stock": 10,
+    "price": 9,
+    "img": "https://m.media-amazon.com/images/I/71beQdMxr1L._AC_SL1500_.jpg"
+  },
+  {
+    "name": "Pet Water Additive Oral Care",
+    "des": "HELPS PREVENT PLAQUE AND TARTAR: Bluestem has been proven to help reduce tartar without brushing by up to 25.4%*. According to the American Veterinary Dental Society, 80% of all dogs and cats will suffer from dental problems by the age of 3. When you establish a daily routine of dental health using a water additive that your pets will love, you are providing a healthier future. *Study summary available upon request.",
+    "stock": 5,
+    "price": 23,
+    "img": "https://m.media-amazon.com/images/I/814VF8eNNHL._AC_SL1500_.jpg"
+  },
+  {
+    "name": "Hartz Groomer's Best Slicker Brush",
+    "des": "Bed Material: Polyester; Fill Material: Foam. Age range description: All Stages",
+    "stock": 3,
+    "price": 7,
+    "img": "https://m.media-amazon.com/images/I/71SXgcA8uYL._AC_SL1500_.jpg"
+  },
+  {
+    "name": "Pet Grooming Glove",
+    "des": "With enhanced 255 silicone grooming tips, mimics the touch of your hand for a soft and relaxing massage; This flexible, slip-on grooming gloves allow you to brush away dirt and loose hair from cats and dogs.",
+    "stock": 6,
+    "price": 14,
+    "img": "https://m.media-amazon.com/images/I/713JHXyZS9L._AC_SL1000_.jpg"
+  }
+  
+]
